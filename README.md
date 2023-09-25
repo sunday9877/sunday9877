@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunday9877
+- 👋 Hi, I’m Di@sunday9877
 - 👀 I’m interested in data.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on machine learning project.
